@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+        background-color: rgb(14, 129, 175);
+
+        
+    
+  }
+  .top
+  {
+          border: 5px solid black;
+          
+          
+          
+  }
+  section
+  
+  {
+    border: 5px solid black;
+  }
+  
+  
+  .hero {
+    background-size: cover;
+    background-position: center;
+    background-color:rgb(50, 219, 163);
+   
+  }
+  
+  .featured .card {
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: skyblue;
+  }
+  
+  .benefits i {
+    font-size: 4rem;
+    background-color: skyblue;
+  }
+  
+  footer a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 10px;
+    
+  }
+  
+  /* Replace these with your specific color palette */
+  
+  .primary {
+    color: #F75931;
+    
+  }
+  
+  .secondary {
+    color: #FFFFFF;
+    
+  }
+  
+  .accent {
+    color: #FDC556;
+    
+  }
+  
